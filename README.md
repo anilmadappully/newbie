@@ -1,1 +1,3 @@
 # newbie
+
+Just a blank slate as I get setup...
